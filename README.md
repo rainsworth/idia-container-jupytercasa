@@ -2,6 +2,8 @@
 
 This repo contains the recipe for a [Singularity](https://www.sylabs.io/) container for [CASA](https://casa.nrao.edu/) version 5.5 for reducing radio data in a [Jupyter](https://jupyter.org/) notebook. Instructions for installing Singularity can be found [here](https://www.sylabs.io/guides/3.0/user-guide/installation.html#installation). The container was developed by the Inter-University Institute for Data Intensive Astronomy (IDIA) in [this repository](https://github.com/idia-astro/idia-container-jupytercasa) and forked here for updating to the latest version of CASA and pushed to [Singularity Hub](https://www.singularity-hub.org/).
 
+More information on using IDIA Singularity Containers can be found [here](https://idia-pipelines.github.io/docs/containers/).
+
 ## Installation
 
 Simply download the image from [Singularity Hub](https://www.singularity-hub.org/collections/3164) by executing:
